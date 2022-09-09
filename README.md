@@ -22,4 +22,4 @@ The population of the communes of Switzerland (state: 01/01/2015) is used by thi
 
 ## Contact
 
-Please don't hesitate to contact me if you have questions or comments about this code: antonin.danalet@are.admin.ch
+Please don't hesitate to contact verkehrsmodellierung@are.admin.ch if you have questions or comments about this code.
